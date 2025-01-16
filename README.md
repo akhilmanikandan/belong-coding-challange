@@ -8,6 +8,10 @@ Refer the above document for complete solution details.
 ## 🌟 Overview
 This project is a Terraform configuration to 🏗️ provision resources in AWS. It includes reusable modules for better organization and follows best practices for 🛡️ maintainability and scalability.
 
+
+## 🗺️ Architecture Diagram
+<img src="images/architecture_diagram.png" alt="Architecture Diagram" width="600">
+
 ## 🔒 State Management
 - The Terraform state file is securely managed in an S3 bucket.
 - DynamoDB is used for state locking to ensure consistency during concurrent operations.
@@ -111,6 +115,6 @@ AWS Systems Manager (SSM) is configured for EC2 instances to allow developers to
 ## 📸 Proof of Website Availability
 To confirm the website is live and accessible, here’s a screenshot of the hosted page:
 
-![Proof the website is up](screenshots/website.png)
+![Proof the website is up](images/website.png)
 
 Because seeing is believing! 🎉 And who wouldn’t want visual confirmation of our hard work?
