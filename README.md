@@ -8,6 +8,10 @@ Refer the above document for complete solution details.
 ## 🌟 Overview
 This project is a Terraform configuration to 🏗️ provision resources in AWS. It includes reusable modules for better organization and follows best practices for 🛡️ maintainability and scalability.
 
+## 🔒 State Management
+- The Terraform state file is securely managed in an S3 bucket.
+- DynamoDB is used for state locking to ensure consistency during concurrent operations.
+
 ## 📂 Structure
 ```
 terraform_project/
