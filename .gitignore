@@ -20,7 +20,7 @@ override.tf.json
 *_override.tf.json
 
 # Ignore sensitive variable files
-terraform.tfvars
+
 *.auto.tfvars
 
 # Ignore backup files created by editors
