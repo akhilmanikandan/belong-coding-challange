@@ -1,7 +1,7 @@
 # 🛠️ Terraform Project
 
 ## 🔗 Reference
-This project is based on the requirements outlined in the [📄 Belong Cloud Platforms Coding Challenge](https://example.com/Belong_Cloud_Platforms_Coding_Challenge.pdf).
+This project is based on the requirements outlined in the [📄 Belong Cloud Platforms Coding Challenge](Belong_Cloud_Platforms_Coding_Challenge.pdf).
 
 ## 🌟 Overview
 This project is a Terraform configuration to 🏗️ provision resources in AWS. It includes reusable modules for better organization and follows best practices for 🛡️ maintainability and scalability.
