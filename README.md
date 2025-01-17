@@ -29,7 +29,7 @@ terraform_project/
 │   ├── vpc/           # 🌐 VPC module
 │   ├── ec2/           # 💻 EC2 module
 │   └── alb/           # 📡 ALB module
-├── screenshots/       # 📸 Directory for screenshots
+├── images/       # 📸 Directory for screenshots
 ```
 
 ## 🛠️ How to Use
